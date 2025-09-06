@@ -1,4 +1,5 @@
 # ⚛️ Shor’s Algorithm — Quantum Factoring with Qiskit
+# dedicated to QCRL-QBronze 169
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Qiskit](https://img.shields.io/badge/Qiskit-Latest-purple.svg)](https://qiskit.org/)
